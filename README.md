@@ -1,4 +1,4 @@
-![Welcome](./resources/welcome.png)
+![Welcome](https://raw.githubusercontent.com/alrifay/alrifay/master/resources/welcome.png)
   
 <samp>Hello, I'm Muhammad, Junior Software Engineer from Egypt 🌞.</samp>
 
