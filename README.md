@@ -1,4 +1,4 @@
-<a href="https://github.com/alrifay/alrifay">
+<a id="welcome" href="https://github.com/alrifay/alrifay">
 <img src="https://raw.githubusercontent.com/alrifay/alrifay/master/resources/welcome.png" alt="Welcome"/>
 </a>
   
@@ -15,5 +15,5 @@
 ---
 
 <p align="center">
-    <img src="https://profile-counter.glitch.me/alrifay/count.svg" alt="Visitor count" />
+    <a href="#welcome"><img src="https://profile-counter.glitch.me/alrifay/count.svg" alt="Visitor count" title="I don't know who made the counter 😁" /></a>
 </p>
