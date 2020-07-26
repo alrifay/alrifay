@@ -13,5 +13,6 @@
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/alrifay/alrifay/master/resources/fireworks.svg" alt="Fireworks"/>
+    Visitor count<br><br>
+    <img src="https://profile-counter.glitch.me/alrifay/count.svg" alt="Visitor count" />
 </p>
