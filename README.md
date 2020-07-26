@@ -1,16 +1,12 @@
 ### Hi there 👋
+  
+<samp>Hello, I'm Muhammad, Junior Software Engineer from Egypt 🌞.</samp>
 
-<!--
-**alrifay/alrifay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>Graduated from faculty of computer science and information systems, Helwan University.</samp>
+  
+  
+- 🔭 I’m currently working on a client project 😟.
+- 🌱 I’m currently learning: unit test, [laravel packages](https://laravel.com/docs/master/packages), [Express.js](https://expressjs.com/)
+- 💬 Ask me about: [Laravel](https://laravel.com/), [vue basics 😁](https://vuejs.org/)
+- 📫 How to reach me: [📧](mailto:fcih.mohammed@gmail.com) 
+- ⚡ Fun fact: Let me think of one 🤔.
