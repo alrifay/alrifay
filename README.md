@@ -15,5 +15,11 @@
 ---
 
 <p align="center">
-    <a href="#welcome"><img src="https://profile-counter.glitch.me/alrifay/count.svg" alt="Visitor count" title="I don't know who made the counter 😁" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=alrifay&show_icons=true" alt="Visitor count" title="My github stats" /></a>
+</p>
+
+---
+
+<p align="center">
+<a href="#welcome"><img src="https://profile-counter.glitch.me/alrifay/count.svg" alt="Visitor count" title="I don't know who made the counter 😁" /></a>
 </p>
