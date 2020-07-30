@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/alrifay/alrifay/master/resources/welcome.png" alt="Welcome"/>
 </a>
   
-<samp>Hello, I'm Muhammad, Junior Software Engineer from Egypt 🌞.</samp>
+<samp>Hello, I'm Muhammad, Software Engineer from Egypt 🌞.</samp>
 
 <samp>Graduated from faculty of computer science and information systems, Helwan University.</samp>
 
