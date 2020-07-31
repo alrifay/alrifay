@@ -6,8 +6,5 @@
             <animateMotion path="M 45 0 L -150 0" dur="5s" repeatCount="indefinite" />
         </text>
     </g>
-    Sorry, your browser does not support inline SVG.  
-    <script type="text/javascript"><![CDATA[
-        console.log('Hello, from svg :)');
-    ]]></script>
+    Sorry, your browser does not support inline SVG.
 </svg>
