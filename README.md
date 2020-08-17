@@ -4,7 +4,7 @@
   
 <samp>Hello, I'm Muhammad, Software Engineer from Egypt 🌞.</samp>
 
-<samp>Graduated from faculty of computer science and information systems, Helwan University.</samp>
+<!-- <samp>Graduated from faculty of computer science and information systems, Helwan University.</samp> -->
 
 - 🔭 I’m currently working on a client project 😟.
 - 🌱 I’m currently learning: unit test, [laravel packages](https://laravel.com/docs/master/packages), [Express.js](https://expressjs.com/)
